@@ -1,4 +1,4 @@
-## Hi there 👋
+## helooo I trying to learn le art of programming :>
 
 <!--
 **PhoenixVita/PhoenixVita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
